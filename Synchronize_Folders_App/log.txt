@@ -1,0 +1,154 @@
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['8df895370dbc8bfad9f5706206dc35d7a1ebd4fb', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['8df895370dbc8bfad9f5706206dc35d7a1ebd4fb', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['8df895370dbc8bfad9f5706206dc35d7a1ebd4fb', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+Detected changes to file: 
+hash of 1.txt is different
+updated file 1.txt
+
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['a09143c19fba5210b742239125a48f87065cdc7b', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['0e42be7652c88bbd86a4833185f061284ebf8a1c', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+Detected changes to file: 
+hash of 1.txt is different
+updated file 1.txt
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['a09143c19fba5210b742239125a48f87065cdc7b', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['a09143c19fba5210b742239125a48f87065cdc7b', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['a09143c19fba5210b742239125a48f87065cdc7b', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['a09143c19fba5210b742239125a48f87065cdc7b', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['a09143c19fba5210b742239125a48f87065cdc7b', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+Detected changes to file: 
+hash of 1.txt is different
+updated file 1.txt
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Script interrupted by user.
+Script will run every  5 seconds.
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds.
+Script interrupted by user.
+Script will run every  5 seconds. (press CTRL+C to close it)
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds. (press CTRL+C to close it)
+Checking for updates...
+files in origin:  ['1.txt', '2.txt', '3.txt'] files in clone:  ['1.txt', '2.txt', '3.txt']
+files added to origin:  []
+files deleted from origin:  []
+hash origin:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+hash replica:  ['897b47e73276af396c32509dc19871486f2ed099', 'f69c81be049e8c3cabcb4cea343ce761b777ed1b', 'da39a3ee5e6b4b0d3255bfef95601890afd80709']
+No changes detected!
+
+Script will run every  5 seconds. (press CTRL+C to close it)
+Script interrupted by user.
